@@ -1,3 +1,6 @@
+## 📁 Files
+- `covid_analytics.sql` - Database & all queries
+- `COVID_Presentation.pptx` - Project presentation
 # covid-analytics-SQL
 # 🦠 COVID-19 Analytics - SQL Project
 
