@@ -12,12 +12,11 @@ Analysis of COVID-19 data using MySQL with 20 business insight queries.
 - MySQL Workbench
 
 ## 🗃️ Database Structure
-- **Table 1:** (apna table naam likho)
-- **Table 2:** (apna table naam likho)
+- **Table 1:** (Patients)
+- **Table 2:** (Covidcases)
 
 ## 📊 Key Analysis Performed
 - 20 Business Insight Queries
-- (apni key findings likho)
 
 ## 🏆 Achievement
 Awarded Distinction - Oxford Software Institute
